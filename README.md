@@ -77,6 +77,6 @@ A machine learning script matches the obtained job titles to a standardized job 
 
 ## Acknowledgments
 - Special thanks to Revelio Labs for their track of Advanced Resume Parsing Challenge for providing the problem statements and inspiration for this project.
-- Thanks to Centre of Excellence in Data Science (Nirma University) for organizing the MINeD hackathon.
+- Thanks to Centre of Excellence in Data Science (Nirma University) for organizing the MINeD hackathon 2024.
 - Special thanks to Praxal Patel from Revelio Labs (the track sponsor) for his help in understanding the statement.
 - Credits to the developers of TensorFlow, Keras, and scikit-learn for their invaluable tools and libraries.
